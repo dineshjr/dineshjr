@@ -14,7 +14,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img src="./IMG_8689.png" width="100%" alt="Lofi Coding Banner"/>
+</div>
 
 ```typescript
 const dineshkumar = {
