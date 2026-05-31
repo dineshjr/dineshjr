@@ -1,18 +1,26 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dineshkumar+Thangaraj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+MERN+Developer+%7C+AWS+%7C+TypeScript+%7C+Building+Production-Grade+Web+Apps&descAlignY=62&descSize=16)
+<!-- SOLODEV THEME — void black · neon cyan · electric violet · blood orange accents -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;AWS+%7C+EC2+%7C+S3+%7C+Lambda+%7C+CloudFront;Building+Scalable+Cloud-Native+Applications)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1f3c,100:00fff7&height=200&section=header&text=Dineshkumar+Thangaraj&fontSize=42&fontColor=00fff7&animation=twinkling&fontAlignY=36&desc=Full+Stack+MERN+Developer+%7C+AWS+%7C+TypeScript+%7C+Building+Production-Grade+Web+Apps&descAlignY=64&descSize=16&descColor=a78bfa)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dineshjr&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/dineshjr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshkumar73717)
-[![Email](https://img.shields.io/badge/Email-dineshkumar73717%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dineshkumar73717@gmail.com)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;AWS+%7C+EC2+%7C+S3+%7C+Lambda+%7C+CloudFront;Building+Scalable+Cloud-Native+Applications)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dineshjr&color=00fff7&style=flat-square&label=Profile+Views)](https://github.com/dineshjr)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00fff7?style=flat-square&logo=linkedin&logoColor=0a0a0f)](https://linkedin.com/in/dineshkumar73717)&nbsp;
+[![Email](https://img.shields.io/badge/Email-dineshkumar73717%40gmail.com-a78bfa?style=flat-square&logo=gmail&logoColor=0a0a0f)](mailto:dineshkumar73717@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `>_ ` About Me
 
 <div align="center">
   <img src="./IMG_8689.png" width="100%" alt="Lofi Coding Banner"/>
@@ -48,108 +56,108 @@ const dineshkumar = {
 
 ---
 
-## 🛠️ Tech Stack
+## `>_ ` Tech Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=00fff7)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=flat-square&logo=html5&logoColor=ff6b35)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=flat-square&logo=css3&logoColor=a78bfa)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=00fff7)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0a0a0f?style=flat-square&logo=redux&logoColor=a78bfa)
+![RTK Query](https://img.shields.io/badge/RTK_Query-0a0a0f?style=flat-square&logo=redux&logoColor=a78bfa)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0f?style=flat-square&logo=tailwindcss&logoColor=00fff7)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0a0a0f?style=flat-square&logo=framer&logoColor=ff6b35)
+![Material UI](https://img.shields.io/badge/Material_UI-0a0a0f?style=flat-square&logo=mui&logoColor=a78bfa)
+![Vite](https://img.shields.io/badge/Vite-0a0a0f?style=flat-square&logo=vite&logoColor=F7DF1E)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=flat-square&logo=nodedotjs&logoColor=00fff7)
+![Express.js](https://img.shields.io/badge/Express.js-0a0a0f?style=flat-square&logo=express&logoColor=a78bfa)
+![JWT](https://img.shields.io/badge/JWT-0a0a0f?style=flat-square&logo=jsonwebtokens&logoColor=ff6b35)
+![REST API](https://img.shields.io/badge/REST_API-0a0a0f?style=flat-square&logo=postman&logoColor=ff6b35)
 
 **Cloud & DevOps**
 
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![AWS VPC](https://img.shields.io/badge/AWS_VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-0a0a0f?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0a0a0f?style=flat-square&logo=amazons3&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-0a0a0f?style=flat-square&logo=awslambda&logoColor=FF9900)
+![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-0a0a0f?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-0a0a0f?style=flat-square&logo=amazonrds&logoColor=a78bfa)
+![AWS VPC](https://img.shields.io/badge/AWS_VPC-0a0a0f?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS DocumentDB](https://img.shields.io/badge/AWS_DocumentDB-527FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=flat-square&logo=mongodb&logoColor=00fff7)
+![Firebase](https://img.shields.io/badge/Firebase_Firestore-0a0a0f?style=flat-square&logo=firebase&logoColor=FFCA28)
+![AWS DocumentDB](https://img.shields.io/badge/AWS_DocumentDB-0a0a0f?style=flat-square&logo=amazonaws&logoColor=a78bfa)
 
 **Tooling**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![esBuild](https://img.shields.io/badge/esBuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black)
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=ff6b35)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=flat-square&logo=github&logoColor=00fff7)
+![Jest](https://img.shields.io/badge/Jest-0a0a0f?style=flat-square&logo=jest&logoColor=ff6b35)
+![Postman](https://img.shields.io/badge/Postman-0a0a0f?style=flat-square&logo=postman&logoColor=ff6b35)
+![esBuild](https://img.shields.io/badge/esBuild-0a0a0f?style=flat-square&logo=esbuild&logoColor=F7DF1E)
 
 ---
 
-## 📊 GitHub Stats
+## `>_ ` GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/dineshjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshjr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshjr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=00fff7&icon_color=a78bfa&text_color=c9d1d9&border_radius=6&ring_color=ff6b35"/>
 </a>
 <a href="https://github.com/dineshjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshjr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshjr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00fff7&text_color=c9d1d9&langs_count=8&border_radius=6"/>
 </a>
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## `>_ ` Streak Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dineshjr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/dineshjr)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dineshjr&hide_border=true&background=0A0A0F&ring=00FFF7&fire=ff6b35&currStreakLabel=00FFF7&sideLabels=a78bfa&dates=4a5568&currStreakNum=00FFF7&sideNums=c9d1d9&stroke=0A0A0F&border_radius=6)](https://github.com/dineshjr)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## `>_ ` Activity Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshjr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/dineshjr)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshjr&bg_color=0a0a0f&color=00fff7&line=a78bfa&point=ff6b35&area=true&hide_border=true&area_color=0d1f3c)](https://github.com/dineshjr)
 
 </div>
 
 ---
 
-## 🏆 Trophy Wall
+## `>_ ` Trophy Wall
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dineshjr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/dineshjr)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dineshjr&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/dineshjr)
 
 </div>
 
 ---
 
-## 💼 Work Experience
+## `>_ ` Work Experience
 
 <details>
-<summary><strong>🏢 Novac Technology Solutions (Client: Aeon Loan Services) — Software Engineer, Full Stack (MERN) · Nov 2024 – Mar 2026 · Chennai, India</strong></summary>
+<summary><strong>🟢 Novac Technology Solutions (Client: Aeon Loan Services) — Software Engineer, Full Stack (MERN) · Nov 2024 – Mar 2026 · Chennai, India</strong></summary>
 
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Fintech](https://img.shields.io/badge/Domain-Fintech_%7C_KYC-38BDAE?style=flat-square)
+> ![React](https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=00fff7) ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=00fff7) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0a0a0f?style=flat-square&logo=redux&logoColor=a78bfa) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0f?style=flat-square&logo=tailwindcss&logoColor=00fff7) ![Fintech](https://img.shields.io/badge/Domain-Fintech_%7C_KYC-ff6b35?style=flat-square&logoColor=0a0a0f)
 
 - 🔐 **Sole engineer** on the KYC module — automated identity verification (Aadhaar, PAN, DigiLocker) for the entire loan onboarding funnel, **eliminating the full manual review queue**
 - ⚡ Architected a multi-step verification UI in React + Tailwind CSS with live verification indicators, document upload flows, and field-level validation — **deployed to production with zero post-launch hotfixes**
@@ -159,9 +167,9 @@ const dineshkumar = {
 </details>
 
 <details>
-<summary><strong>🏢 Cameo Corporate Services — Frontend Engineer · Sep 2022 – Feb 2024 · Chennai, India</strong></summary>
+<summary><strong>🟣 Cameo Corporate Services — Frontend Engineer · Sep 2022 – Feb 2024 · Chennai, India</strong></summary>
 
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Enterprise SPAs](https://img.shields.io/badge/Domain-Enterprise_SPAs-38BDAE?style=flat-square)
+> ![React](https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=00fff7) ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=00fff7) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0a0a0f?style=flat-square&logo=redux&logoColor=a78bfa) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0f?style=flat-square&logo=tailwindcss&logoColor=00fff7) ![Enterprise SPAs](https://img.shields.io/badge/Domain-Enterprise_SPAs-a78bfa?style=flat-square&logoColor=0a0a0f)
 
 - 🎨 Delivered **pixel-perfect React SPAs with Redux Toolkit** across 3 client products — all matched 1:1 to Figma specs with **zero QA-flagged visual regressions at launch**
 - 🚀 Designed RESTful API integration layers with **optimized request batching and response caching** — improving perceived performance metrics across all products
@@ -172,7 +180,7 @@ const dineshkumar = {
 
 ---
 
-## 🚀 Featured Projects
+## `>_ ` Featured Projects
 
 <div align="center">
 
@@ -184,12 +192,12 @@ const dineshkumar = {
 
 ---
 
-## 🏅 Achievements
+## `>_ ` Achievements
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:--:|:-----------:|:-------:|
+| &nbsp; | Achievement | Details |
+|:------:|:-----------:|:-------:|
 | ⚙️ | **KYC Automation — Production Impact** | Sole engineer; eliminated full manual verification queue for Aadhaar, PAN & DigiLocker across entire loan onboarding funnel |
 | 🐛 | **30% Reduction in Production Incidents** | Led root-cause analysis initiative at Novac Technology Solutions across the full platform |
 | 🚀 | **Zero Post-Launch Hotfixes** | Multi-step fintech KYC verification UI deployed to production with zero issues |
@@ -202,7 +210,7 @@ const dineshkumar = {
 
 ---
 
-## 🎓 Education & Currently Learning
+## `>_ ` Education & Currently Learning
 
 <div align="center">
 
@@ -215,34 +223,34 @@ const dineshkumar = {
 <br/>
 
 ```
-🧱 Currently Learning → Roadmap
+// SoloDev :: Learning Roadmap
 
-  ☁️  AWS Certified Developer Associate
-       → EC2 · S3 · Lambda · RDS · CloudFront · VPC · IAM · CloudWatch
+  [ CLOUD ]   AWS Certified Developer Associate
+               → EC2 · S3 · Lambda · RDS · CloudFront · VPC · IAM · CloudWatch
 
-  🏗️  Microservices Architecture
-       → Service decomposition · Event-driven design · API Gateway
+  [ ARCH  ]   Microservices Architecture
+               → Service decomposition · Event-driven design · API Gateway
 
-  ⚙️  Sandboxed Execution Systems
-       → Secure multi-language code runners · Testcase evaluation strategies
+  [ EXEC  ]   Sandboxed Execution Systems
+               → Secure multi-language code runners · Testcase evaluation strategies
 
-  🔒  Advanced Auth Patterns
-       → OAuth 2.0 · Token rotation · Fine-grained RBAC at scale
+  [ AUTH  ]   Advanced Auth Patterns
+               → OAuth 2.0 · Token rotation · Fine-grained RBAC at scale
 
-  📐  System Design
-       → Distributed systems · Caching strategies · Database sharding
+  [ SCALE ]   System Design
+               → Distributed systems · Caching strategies · Database sharding
 ```
 
 ---
 
 <div align="center">
 
-*"Ship clean code. Solve real problems. Build things that matter."* 🚀
+`// Ship clean code. Solve real problems. Build things that matter.`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dineshkumar_Thangaraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshkumar73717)
-[![Email](https://img.shields.io/badge/Email-dineshkumar73717%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dineshkumar73717@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dineshjr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dineshjr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dineshkumar_Thangaraj-0a0a0f?style=flat-square&logo=linkedin&logoColor=00fff7)](https://linkedin.com/in/dineshkumar73717)&nbsp;
+[![Email](https://img.shields.io/badge/Email-dineshkumar73717%40gmail.com-0a0a0f?style=flat-square&logo=gmail&logoColor=ff6b35)](mailto:dineshkumar73717@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-dineshjr-0a0a0f?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/dineshjr)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,50:0d1f3c,100:0a0a0f&height=120&section=footer&animation=twinkling)
